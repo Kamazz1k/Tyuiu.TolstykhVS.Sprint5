@@ -17,7 +17,7 @@ namespace Tyuiu.TolstykhVS.Sprint5.Task0.V10.Lib
             double x = 2;
 
             double rez = number1 * Math.Pow(x, 3) - number2 * Math.Pow(x, 2) + number3 * x;
-            File.AppendAllText(OutPutFile, rez.ToString());
+            File.AppendAllText(OutPutFile, rez.ToString()); 
             return (Math.Round(rez, 3));
               
             }
