@@ -1,0 +1,8 @@
+C:\Users\Tolst\source\repos\Tyuiu.TolstykhVS.Sprintt5\Tyuiu.TolstykhVS.Sprint5.Task6.V4.Lib\bin\Debug\Tyuiu.TolstykhVS.Sprint5.Task6.V4.Lib.dll
+C:\Users\Tolst\source\repos\Tyuiu.TolstykhVS.Sprintt5\Tyuiu.TolstykhVS.Sprint5.Task6.V4.Lib\bin\Debug\Tyuiu.TolstykhVS.Sprint5.Task6.V4.Lib.pdb
+C:\Users\Tolst\source\repos\Tyuiu.TolstykhVS.Sprintt5\Tyuiu.TolstykhVS.Sprint5.Task6.V4.Lib\bin\Debug\tyuiu.cources.programming.interfaces.dll
+C:\Users\Tolst\source\repos\Tyuiu.TolstykhVS.Sprintt5\Tyuiu.TolstykhVS.Sprint5.Task6.V4.Lib\obj\Debug\Tyuiu.TolstykhVS.Sprint5.Task6.V4.Lib.csproj.AssemblyReference.cache
+C:\Users\Tolst\source\repos\Tyuiu.TolstykhVS.Sprintt5\Tyuiu.TolstykhVS.Sprint5.Task6.V4.Lib\obj\Debug\Tyuiu.TolstykhVS.Sprint5.Task6.V4.Lib.csproj.CoreCompileInputs.cache
+C:\Users\Tolst\source\repos\Tyuiu.TolstykhVS.Sprintt5\Tyuiu.TolstykhVS.Sprint5.Task6.V4.Lib\obj\Debug\Tyuiu.TolstykhVS.Sprint5.Task6.V4.Lib.csproj.CopyComplete
+C:\Users\Tolst\source\repos\Tyuiu.TolstykhVS.Sprintt5\Tyuiu.TolstykhVS.Sprint5.Task6.V4.Lib\obj\Debug\Tyuiu.TolstykhVS.Sprint5.Task6.V4.Lib.dll
+C:\Users\Tolst\source\repos\Tyuiu.TolstykhVS.Sprintt5\Tyuiu.TolstykhVS.Sprint5.Task6.V4.Lib\obj\Debug\Tyuiu.TolstykhVS.Sprint5.Task6.V4.Lib.pdb
